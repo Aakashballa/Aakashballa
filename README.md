@@ -108,9 +108,9 @@ Showcases projects & skills
 
 📫 Connect With Me
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+💼 LinkedIn: www.linkedin.com/in/akash-balla
 
-📧 Email: your.email@example.com
+📧 Email: aakashballa@example.com
 
 🌐 Portfolio: coming soon
 
