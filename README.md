@@ -22,6 +22,7 @@ Currently focused on backend + frontend development, problem-solving, and learni
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0A1AFF&height=200&section=header&text=Akash&fontSize=40&fontColor=ffffff)
 
 
+<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,mongodb&theme=dark" />
 🛠️ Tech Stack
 💻 Languages
 
