@@ -3,7 +3,7 @@
 🎓 Computer Science Engineering Graduate  
 💻 Aspiring Full Stack Developer  
 🚀 Passionate about building real-world applications  
-
+   
 ---
 
 ## 🚀 About Me
@@ -36,7 +36,7 @@
 - Git & GitHub
 - VS Code
 
----
+----
 
 ## 📂 Featured Projects
 
